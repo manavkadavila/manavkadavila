@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Remin Mohammed 👋</h1>
-<h3 align="center">© ᴍʏ ᴀɪᴍ ɪꜱ ᴛᴏ ᴄʀᴇᴀᴛᴇ ꜱᴄʀɪᴘᴛꜱ ꜰᴏʀ ꜰɪᴠᴇᴍ</h3>
+<h1 align="center">Hi, I'm Manav D R</h1>
+<h3 align="center">© Bulding Writing And Learning Everyday</h3>
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Anxxity&label=Profile%20Views&color=0e75b6&style=flat" alt="Anxxity" />
+ <img src="https://komarev.com/ghpvc/?username=manavkadavila&label=Profile%20Views&color=0e75b6&style=flat" alt="manavkadavila" />
 </p>
 
 ---
